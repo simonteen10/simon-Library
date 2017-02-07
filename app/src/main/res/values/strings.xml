@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">simonlib</string>
+
+    <!-- 레이아웃용 고정스트링 -->
+    <string name="custom_toast_layout_toastMessage_text">토스트메세지</string>
+</resources>
