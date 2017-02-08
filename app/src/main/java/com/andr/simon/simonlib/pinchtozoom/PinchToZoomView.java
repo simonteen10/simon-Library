@@ -1,4 +1,4 @@
-package com.andr.simon.simonlib.customimageview;
+package com.andr.simon.simonlib.pinchtozoom;
 
 import android.content.Context;
 import android.graphics.Matrix;
